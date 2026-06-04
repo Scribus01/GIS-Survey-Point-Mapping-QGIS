@@ -1,3 +1,6 @@
+## Project Preview
+
+![GIS Map](gis_data2.png)
 # GIS Survey Point Mapping Project
 
 ## Overview
